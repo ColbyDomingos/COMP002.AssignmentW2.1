@@ -20,7 +20,7 @@ console.log(result);
 // *Note: You should only have one console.log() statement - how do you add a new line in
 // a string?...
 
-console.log("Hello\nnWorld!");
+console.log("Hello\nWorld!");
 
 // 4. Write code to output the result of the arithmetic expression to the console:
 // 3 * 8 + 2;
