@@ -50,4 +50,15 @@ console.log((10 * 10) > 50 && (5 * 5) < 50);
 // 9. Write code to output the result of the comparison:
 // 1 + 2 is greater than 5 OR 1 * 10 is greater than 5
 
+console.log((1 + 2) > 5 || (1 * 10) > 5);
+
 // 10. Write code that demonstrates an automatic type conversion as shown in Chapter 01.
+
+console.log(189 * null);
+console.log("78" - 179382);
+console.log("6" + 9898);
+console.log("eight" * 8);
+console.log(true == 5);
+
+console.log(null == undefined);
+console.log(null == 0)
